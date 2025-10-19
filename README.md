@@ -1,10 +1,16 @@
 # 👋 Hola, soy Bryan Jumbo
 
+
+
 **Machine Learning Engineer | AI Enthusiast | Python & Java Developer**
+
 
 Ingeniero junior en desarrollo de software con formación en Machine Learning. Apasionado por crear herramientas interactivas, optimizar flujos de trabajo y aplicar técnicas de IA para resolver problemas reales.
 
----
+
+<p align="right">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" />
+</p>
 
 ## 💻 Habilidades
 
@@ -17,6 +23,9 @@ Ingeniero junior en desarrollo de software con formación en Machine Learning. A
 - Análisis exploratorio de datos (EDA)
 - Modelos supervisados y clasificación de texto
 
+
+
+
 ### Desarrollo y herramientas
 - Git, GitHub
 - APIs y desarrollo de aplicaciones multiplataforma
@@ -26,7 +35,6 @@ Ingeniero junior en desarrollo de software con formación en Machine Learning. A
 
 ### Bases de datos
 - MySQL, SQL
-
 
 ## 🎓 Formación
 - **Data Science y Machine Learning** – 4Geeks Academy (2025)  
@@ -41,4 +49,6 @@ Ingeniero junior en desarrollo de software con formación en Machine Learning. A
 ---
 
 ## ⚡ Extras
-- Idiomas: Español (nativo), Inglés (B2)  
+- Idiomas: Español (nativo), Inglés (B2)
+
+![Data](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
