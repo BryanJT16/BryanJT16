@@ -47,7 +47,7 @@ Ingeniero junior en desarrollo de software con formación en Machine Learning. A
 ---
 
 ## 🌐 Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=whitewww.linkedin.com/in/bryan-jumbo-torres-17b20b30b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b.jumbot@gmail.com) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=whitewww.linkedin.com/in/bryan-jumbo-torres-17b20b30b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b.jumbot@gmail.com) 
 
 ---
 
