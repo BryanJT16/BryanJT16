@@ -16,6 +16,7 @@ Ingeniero junior en desarrollo de software con formación en Machine Learning. A
 
 ### Lenguajes de programación
 - Python, Java, C#
+  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
@@ -29,15 +30,23 @@ Ingeniero junior en desarrollo de software con formación en Machine Learning. A
 
 
 ### Desarrollo y herramientas
-- Git, GitHub ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-- APIs ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- Git, GitHub
+  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+- APIs
+
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - Desarrollo de aplicaciones multiplataforma
 - Streamlit para interfaces interactivas
-- HTML, CSS  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+- HTML, CSS
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 - Unity (programación y mecánicas de videojuegos 2D)
 
 ### Bases de datos
-- MySQL, SQL  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+- MySQL, SQL
+
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ## 🎓 Formación
 - **Data Science y Machine Learning** – 4Geeks Academy (2025)  
